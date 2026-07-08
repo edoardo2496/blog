@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - Il Blog di Edoardo</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; color: #333; }
+        header { border-bottom: 2px solid #eaeaea; padding-bottom: 20px; margin-bottom: 30px; }
+        h1 { color: #111; font-size: 1.8em; }
+        .post-date { color: #666; font-size: 0.9em; margin-bottom: 30px; }
+        article { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        a.back { display: inline-block; margin-bottom: 20px; color: #0066cc; text-decoration: none; }
+        a.back:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <a class="back" href="{{ '/' | relative_url }}">&larr; Torna al blog</a>
+    <article>
+        <header>
+            <h1>{{ page.title }}</h1>
+            <p class="post-date">Pubblicato il: {{ page.date | date: "%d/%m/%Y" }}</p>
+        </header>
+        {{ content }}
+    </article>
+</body>
+</html>
