@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il Blog di Edoardo</title>
+    <!-- Stile CSS minimale ed elegante direttamente nell'head -->
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; color: #333; }
+        header { border-bottom: 2px solid #eaeaea; padding-bottom: 20px; margin-bottom: 30px; }
+        h1 { color: #111; }
+        .post-preview { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); margin-bottom: 20px; }
+        .post-date { color: #666; font-size: 0.9em; }
+        a { color: #0066cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
 
+    <header>
+        <h1>Il Blog di Edoardo</h1>
+        <p>Riflessioni su Allenamento, Filosofia e Matematica</p>
+    </header>
+
+    <main>
+        <h2>Ultimi Articoli</h2>
+        
+        <!-- Questo ciclo dice a GitHub Pages di scorrere tutti i file .md dentro _posts -->
+        {% for post in site.posts %}
+            <div class="post-preview">
+                <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                <p class="post-date">Pubblicato il: {{ post.date | date: "%d/%m/%Y" }}</p>
+                <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+            </div>
+        {% endfor %}
+        
+    </main>
+
+</body>
+</html>
