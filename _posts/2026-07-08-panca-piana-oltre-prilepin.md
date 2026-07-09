@@ -28,7 +28,7 @@ Continuando ad addentrarci all'interno dell'essenza del lavoro di Prilepin, non 
 
 La Tabella di Prilepin, quando è utilizzata come linea guida per la programmazione dell'allenamento, tradisce la sua natura descrittiva — tradisce se stessa — e rischia di limitare i progressi. In pratica, usarla per la programmazione pratica è come usare impropriamente uno strumento; come tentare di mangiare una zuppa con una forchetta, o al più con il lato piatto di un coltello.
 
-Pensiamo a programmi più o meno celebri dell'allenamento con i pesi, come il **Ciclo Russo** o lo **Smolov Jr.**. In entrambi i casi si ha un volume di lavoro quasi doppio rispetto a quanto riportato nella Tabella di Prilepin. Il Ciclo Russo, alla quinta settimana del blocco di accumulo, prescrive 6 serie per 6 ripetizioni all'80% del proprio massimale. Lo Smolov Jr. prescrive di chiudere la quarta settimana — estremamente stressante — con 30 alzate in una zona di intensità compresa tra l'85 e il 90% dell'RM. Questi esempi, se vogliamo fare **scienza dell'allenamento sportivo**, vogliono semplicemente portare ai nostri occhi che o sono sbagliati i programmi sopracitati, o c'è qualcosa che non va nella Tabella di Prilepin — la quale peraltro *indicherebbe* un volume massimo di 20 alzate per la fascia 80-90%. Non possiamo, come nella maggior parte dei casi si sarebbe portati, concludere — alla maniera presa a prestito dalla lettura *Scolastica* dell'*Etica Nicomachea* — che *in medio stat virtus*. In questo caso è proprio sbagliato utilizzare il lavoro di Prilepin in maniera *prescrittiva*, contro la sua natura informativa.
+Pensiamo a programmi più o meno celebri dell'allenamento con i pesi, come il **Ciclo Russo** o lo **Smolov Jr.**. In entrambi i casi si ha un volume di lavoro quasi doppio rispetto a quanto riportato nella Tabella di Prilepin. Il Ciclo Russo, alla quinta settimana del blocco di accumulo, prescrive 6 serie per 6 ripetizioni all'80% del proprio massimale. Lo Smolov Jr. prescrive di chiudere la quarta settimana — estremamente stressante — con 30 alzate in una zona di intensità compresa tra l'85 e il 90% dell'RM. Questi esempi, se vogliamo fare **scienza dell'allenamento sportivo**, devono portare ai nostri occhi che o sono sbagliati i programmi sopracitati, o c'è qualcosa che non va nella Tabella di Prilepin — la quale peraltro *indicherebbe* un volume massimo di 20 alzate per la fascia 80-90%. Non possiamo, come nella maggior parte dei casi si sarebbe portati, concludere — alla maniera presa a prestito dalla lettura *Scolastica* dell'*Etica Nicomachea* — che *in medio stat virtus*. In questo caso è proprio sbagliato utilizzare il lavoro di Prilepin in maniera *prescrittiva*, contro la sua natura informativa.
 
 Il grande difetto della **Tabella di Prilepin** è che è muta rispetto alle progressioni. Non contiene indicazioni in merito a fasi di accumulo o intensificazione; riduce il tutto a una fotografia della singola seduta di allenamento. Con questa analisi il risultato che voglio ottenere è porre l'accento sulla natura del lavoro di Prilepin, mostrando come ci si trovi spesso a mescolare il lato descrittivo con quello prescrittivo, producendo così deallenamenti o vanificando fasi di accumulo.
 
@@ -47,7 +47,7 @@ Facciamo ancora un esempio pratico. Assumiamo di programmare la panca piana e di
 1. 8 ripetizioni al 72%
 2. 7 ripetizioni al 75%
 3. 6 ripetizioni al 77%
-4. 5 ripetizioni all'80%
+4. 5 ripetizioni al 80%
 
 Così facendo abbiamo impostato un lavoro longitudinale, producendo però come *outcome* uno sforzo percepito medio costante. Abbiamo ottenuto indicazioni precise su quante ripetizioni eseguire e a quale percentuale del RM, affinché lo sforzo percepito risultasse di media intensità.
 
@@ -55,7 +55,8 @@ Guardando alla progressione impostata si può notare come 8 ripetizioni al 72% a
 
 All'allenatore è lasciata quindi la libertà di ripetere lo schema quante volte lo ritenga necessario — aggiungendo serie, o riproponendo la stessa onda.
 
-
+Con questo esempio si è cercato di mostrare che tipologia di lavoro si possa fare con uno strumento prescrittivo come la Scala di Borg. Quest'ultima non impone già un volume specifico per fascia di intensità piuttosto regola il numero di ripetizioni in funzione di uno sforzo che si vuole percepire. Lavora sull'intensità relativa.
+E questo poi si innesta con la libertà di ripetere il volume (dunque il numero di ripetizioni per serie) a piacere. 
 
 
 
