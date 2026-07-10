@@ -9,7 +9,7 @@ Il file di LiftVault che circola online con il nome di "Sheiko Bench Press Only 
 
 ## Il grafico
 
-![Andamento volume e intensità](/assets/images/sheiko_volume_intensita.png)
+![Andamento volume e intensità](/blog/assets/images/sheiko_volume_intensita.png)
 
 Le barre verticali rappresentano il volum settimanale — alzate totali (ripetizioni × serie) eseguite a intensità ≥60% del RM, la soglia sotto la quale una serie è riscaldamento e non stimolo allenante. La linea continua è l'intensità media di quelle stesse serie; la linea tratteggiata è il picco di intensità raggiunto nella settimana.
 
