@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Sheiko Bench Press Only: cosa dicono davvero i numeri"
-date: 2026-07-10
-category: allenamento
+title: "Analisi Sheiko Bench Press Program"
+category: "Allenamento"
+image: /assets/images/posts/2026-07-09-sheiko.jpg
 ---
 
 Il file di LiftVault che circola online con il nome di "Sheiko Bench Press Only Program" è uno dei programmi monoesercizio più citati nell'ambiente powerlifting, ma è anche uno dei meno analizzati numericamente: viene passato di mano come screenshot, raramente come dataset. Qui provo a trattarlo come tale — 14 settimane, tre sedute a settimana, ogni riga con percentuale, ripetizioni e serie — ed estrarne l'andamento di volume e intensità settimana per settimana, limitando l'analisi al solo esercizio principale (panca piana) - con intensità superiore al 60% -, escludendo varianti (presa stretta, incline, board press) e accessori.
