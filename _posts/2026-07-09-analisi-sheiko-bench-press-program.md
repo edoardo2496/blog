@@ -9,7 +9,7 @@ Il file di LiftVault che circola online con il nome di "Sheiko Bench Press Only 
 
 ## Il grafico
 
-![Andamento volume e intensità](sheiko_volume_intensita.png)
+![Andamento volume e intensità](/assets/images/sheiko_volume_intensita.png)
 
 Le barre verticali rappresentano il volum settimanale — alzate totali (ripetizioni × serie) eseguite a intensità ≥60% del RM, la soglia sotto la quale una serie è riscaldamento e non stimolo allenante. La linea continua è l'intensità media di quelle stesse serie; la linea tratteggiata è il picco di intensità raggiunto nella settimana.
 
@@ -43,6 +43,4 @@ Le barre verticali rappresentano il volum settimanale — alzate totali (ripetiz
 **Il vero cambio di passo comincia alla settimana 11.** È qui che compare per la prima volta un singolo all'1RM stimato (100% nella tabella), il volume crolla a 62 alzate — meno della metà del picco alla settimana 4 — e da lì il programma non torna più sopra le 75 alzate settimanali. Le ultime quattro settimane (11-14) sono un taper vero e proprio: il volume si dimezza due volte in sequenza (62 → 72 → 44 → 18) mentre l'intensità resta alta o cala solo nell'ultimissima settimana, quando ci si avvicina alla gara.
 
 **Il totale di 1462 alzate sull'intero macrociclo è un dato di scala, non solo di stile.** È un numero utile da tenere a mente se vuoi confrontare Sheiko con altri programmi monoesercizio che eventualmente costruirai o adatterai.
-## Un limite dell'analisi
 
-Il file prescrive quasi sempre due blocchi di panca nella stessa seduta (una prima serie di rampe, poi un secondo blocco più corto, spesso a percentuali comparabili) — li ho sommati come volume della singola giornata, coerentemente con come li esegui tu nella pratica. Le varianti (presa stretta, incline, wide grip) e il lavoro accessorio (dip, tricipiti, dorso) non sono incluse in nessuna cifra qui sopra: se vuoi, posso rifare lo stesso identico grafico includendo anche il volume totale "upper body" per avere un quadro di carico complessivo, non solo sul gesto competitivo.
